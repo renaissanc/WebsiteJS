@@ -167,7 +167,7 @@ export const workExperience = [
     title: "PowerBI",
     desc: "",
     className: "md:col-span-2",
-    thumbnail: "/PowerBI.svg",
+    thumbnail: "/powerBI.svg",
   },
   {
     id: 5,
