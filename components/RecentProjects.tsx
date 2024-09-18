@@ -30,13 +30,11 @@ const RecentProjects = () => {
                 >
                   <Image src="/bg.png" alt="bgimg" width={100} height={100}/>
                 </div>
-                  <img
+                  <Image
                     src={item.img}
                     alt="cover"
-                    className="z-10 absolute bottom-0"
+                    className="z-10 absolute bottom-0" width={100} height={100}
                     style={{
-                    width: "100%",
-                    height: "100%",
                     objectFit: "cover",
                   }}
                   />
@@ -64,7 +62,7 @@ const RecentProjects = () => {
                         transform: `translateX(-${5 * index + 2}px)`,
                       }}
                     >
-                      <img src={icon} alt="icon5" className="p-2" />
+                      <Image src={icon} alt="icon5" width={100} height={100} className="p-2" />
                     </div>
                   ))}
                 </div>
