@@ -2,6 +2,7 @@ import React from "react";
 import { AnimatePresence, motion } from "framer-motion";
 
 import { CanvasRevealEffect } from "./ui/CanvasRevealEffect";
+import Image from "next/image";
 
 const Approach = () => {
   return (
@@ -17,12 +18,14 @@ const Approach = () => {
           icon={<AceternityIcon order="Story 1" />}
           des="In a small village in Bangladesh, a group of women gathered, desperate for a way out of their crushing poverty. They didn&apos;t need charity; they needed a chance. A man believed that with just a little financial support, these women could transform their lives. So, he gave them small loans without asking for collateral, a radical idea at the time. Slowly but surely, the women started businesses—selling crafts, raising livestock—and lifted themselves out of poverty. What began as a simple loan grew into a movement that would change millions of lives. The man behind it? Muhammad Yunus."
         >
-          <img src="muhammad.jpg" alt="test" style={{
-            width: "100%",
-            height: "100%",
+          <Image src="/muhammad.jpg" alt="test" layout="fill"
+            objectFit="cover"
+            objectPosition="center"
+            style={{
+            borderRadius: "20px",
             objectFit: "cover",
-            opacity: 0.5,
-          }}/>
+            }}
+          />
           
         </Card>
         <Card
@@ -30,12 +33,14 @@ const Approach = () => {
           icon={<AceternityIcon order="Story 2" />}
           des="Deep in rural Africa, families were forced to drink from filthy ponds, causing sickness and death. One day, a man visited these communities, heartbroken by what he saw. Determined to make a difference, he returned home and launched a campaign that would change everything. He rallied people from all over the world, raising funds to bring clean water to those in need. Slowly, wells were dug, and diseases from contaminated water faded. Over fifteen million people now drink clean water because of the vision of Scott Harrison."
         >
-          <img src="scott.jpg" alt="test" style={{
-            width: "100%",
-            height: "100%",
+          <Image src="/scott.jpg" alt="test" layout="fill"
+            objectFit="cover"
+            objectPosition="center"
+            style={{
+            borderRadius: "20px",
             objectFit: "cover",
-            opacity: 0.5,
-          }}/>
+            }}
+          />
           {/* Radial gradient for the cute fade */}
           {/* remove this one */}
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
@@ -45,12 +50,13 @@ const Approach = () => {
           icon={<AceternityIcon order="Story 3" />}
           des="In many parts of sub-Saharan Africa, an invisible killer claimed countless lives, especially children. Malaria, a disease carried by mosquitoes, was a death sentence for so many. But one man saw the potential to change that. He poured resources into research, distributed millions of treated bed nets, and pushed for better treatments. His goal was simple but monumental: to eradicate malaria altogether. Today, deaths from the disease have dropped by nearly half. The man behind this massive effort? Bill Gates."
         >
-          <img src="bill.webp" alt="test" style={{
-            width: "100%",
-            height: "100%",
+          <Image src="/bill.webp" alt="test" layout="fill"
+            objectFit="cover"
+            objectPosition="center" style={{
+            borderRadius: "20px",
             objectFit: "cover",
-            opacity: 0.5,
-          }}/>
+            }}
+          />
         </Card>
       </div>
       <h1 className="custom-heading" style={{

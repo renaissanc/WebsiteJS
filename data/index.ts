@@ -85,7 +85,7 @@ export const projects = [
     des: "using aceternity ui",
     img: "/html.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://www.google.com",
+    link: "https://github.com/renaissanc/WebsiteJS",
   },
   /*
   {

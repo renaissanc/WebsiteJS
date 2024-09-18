@@ -49,12 +49,12 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Welcome! If my work doesn&apos;t dazzle you, just know I&apos;m dazzled by your visit."
+            words="Welcome!  I&apos;m Murtaza, a business Engineer and Data Analyst based in Germany."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Murtaza, a Business Engineer and Data Analyst based in Germany.
+            I hope you enjoy my work.
           </p>
 
           <a href="#about">

@@ -9,6 +9,7 @@ import Approach from "@/components/Approach";
 import Experience from "@/components/Experience";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
+import Image from "next/image";
 
 const Home = () => {
   return (
@@ -20,18 +21,17 @@ const Home = () => {
         <RecentProjects />
         <Experience />
         <Approach />
-        <img src="/Resume.jpg" alt="Resume" id="Resume" style={{
-            display: "block",
-            margin: "0 auto",
-            border: "1px solid #ccc",
-            borderRadius: "20px",
-            boxShadow: "0 0 10px rgba(255, 255, 255, 3.0)",
-            backgroundColor: "#333",
-            transform: "perspective(1000px) rotateY(0deg) rotateX(0deg)",
-            objectFit: "cover",
-            width: "100%",
-            height: "100%",
-        }} />
+        <Image src="/Resume.jpg" alt="Resume" width={1000} height={1000} style={{
+          display: "block",
+          margin: "0 auto",
+          border: "1px solid #ccc",
+          borderRadius: "20px",
+          boxShadow: "0 0 10px rgba(255, 255, 255, 3.0)",
+          backgroundColor: "#333",
+          transform: "perspective(1000px) rotateY(0deg) rotateX(0deg)",
+          objectFit: "cover",
+          objectPosition: "center",}}
+             />
         <Footer />
       </div>
     </main>
