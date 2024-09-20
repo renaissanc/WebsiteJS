@@ -32,7 +32,7 @@ export const gridItems = [
   {
     id: 3,
     title: "My tech stack",
-    description: "I constantly try to improve",
+    description: "Grows with time",
     //className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     className: "lg:col-span-1 md:col-span-2 md:row-span-1",
     imgClassName: "",
@@ -42,8 +42,8 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "\“Any sufficiently advanced technology is indistinguishable from magic\” -Arthur C. Clarke",
-    description: "",
+    title: "words that keep me up at night.",
+    description: "\“Any sufficiently advanced technology is indistinguishable from magic\” -Arthur C. Clarke",
     //className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     className: "lg:col-span-1 md:col-span-2 md:row-span-1",
     imgClassName: "",
@@ -54,8 +54,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently working with pytorch library",
-    description: "The Inside Scoop",
+    title: "The Inside Scoop",
+    description: "Currently working with pytorch library",
     //className: "md:col-span-3 md:row-span-2",
     className: "md:col-span-1 md:row-span-1",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -65,7 +65,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: "Get in touch",
+    title: "to be filled ...",
     description: "",
     //className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     className: "lg:col-span-1 md:col-span-2 md:row-span-1",
