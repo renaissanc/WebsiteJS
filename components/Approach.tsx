@@ -24,6 +24,7 @@ const Approach = () => {
             style={{
             borderRadius: "20px",
             objectFit: "cover",
+            opacity: 0.4,
             }}
           />
           
@@ -39,6 +40,7 @@ const Approach = () => {
             style={{
             borderRadius: "20px",
             objectFit: "cover",
+            opacity: 0.5,
             }}
           />
           {/* Radial gradient for the cute fade */}
@@ -55,6 +57,7 @@ const Approach = () => {
             objectPosition="center" style={{
             borderRadius: "20px",
             objectFit: "cover",
+            opacity: 0.5,
             }}
           />
         </Card>

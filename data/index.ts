@@ -15,13 +15,13 @@ export const gridItems = [
     className: "lg:col-span-2 md:col-span-2 md:row-span-2",
     imgClassName: "w-full h-full right-50",
     titleClassName: "justify-end",
-    img: "/selfweb.jpg",
+    img: "/selfme.jpg",
     spareImg: "",
   },
   {
     id: 2,
     title: "Tech enthusiast with a passion for building things.",
-    description: "",
+    description: "At your service",
     //className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     className: "lg:col-span-1 md:col-span-2 md:row-span-1",
     imgClassName: "",
@@ -42,7 +42,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "words that keep me up at night.",
+    title: "Words that keep me up at night.",
     description: "\“Any sufficiently advanced technology is indistinguishable from magic\” -Arthur C. Clarke",
     //className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     className: "lg:col-span-1 md:col-span-2 md:row-span-1",
@@ -55,20 +55,20 @@ export const gridItems = [
   {
     id: 5,
     title: "The Inside Scoop",
-    description: "Currently working with pytorch library",
+    description: "Currently working with pytorch library.",
     //className: "md:col-span-3 md:row-span-2",
     className: "md:col-span-1 md:row-span-1",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
+    img: "/grid.svg",
     spareImg: "/grid.svg",
   },
   {
     id: 6,
-    title: "to be filled ...",
-    description: "",
+    title: "Traveled to 20+ countries,",
+    description: "embracing diverse cultures and experiences. Each journey broadens my perspective and fuels my passion for learning and growth, personally and professionally.",
     //className: "lg:col-span-2 md:col-span-3 md:row-span-1",
-    className: "lg:col-span-1 md:col-span-2 md:row-span-1",
+    className: "lg:col-span-1 md:col-span-2 md:row-span-1 ",
     imgClassName: "",
     titleClassName: "justify-center md:max-w-full max-w-60 text-center",
     img: "/grid.svg",
@@ -77,6 +77,15 @@ export const gridItems = [
 ];
 
 export const projects = [
+  {
+    id: 1,
+    title: "My Portfolio",
+    des: "Have a look at my projects.",
+    img: "/git.svg",
+    iconLists: ["/Python.svg", "/panda.svg", "/numpy.svg", "/matplotlib.svg"],
+    link: "https://github.com/renaissanc/PortfolioOpt/tree/master",
+  },
+  /*
   {
     id: 1,
     title: "Portfolio Optimization",
@@ -93,7 +102,16 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/renaissanc/WebsiteJS",
   },
+  */
   /*
+  {
+    id: 2,
+    title: "AI Image SaaS - Canva Application",
+    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    img: "/p2.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "/ui.aiimg.com",
+  },
   {
     id: 3,
     title: "AI Image SaaS - Canva Application",
