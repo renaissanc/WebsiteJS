@@ -49,7 +49,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Welcome!  I&apos;m Murtaza, a business Engineer and Data Analyst based in Germany."
+            words="Welcome!  I&apos;m Mustafa, a Data/Dev ops Engineer based in Germany."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
@@ -57,7 +57,7 @@ const Hero = () => {
             I hope you enjoy my work.
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}

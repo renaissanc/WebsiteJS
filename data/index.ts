@@ -149,59 +149,122 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
+    title: "Docker",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/docker.svg",
+  },
+  {
+    id: 2,
+    title: "Apache Kafka",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/kafka.svg",
+  },
+  {
+    id: 3,
+    title: "Apache ZooKeeper",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/zookeeper.svg",
+  },
+  {
+    id: 4,
+    title: "Apache Spark",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/spark.svg",
+  },
+  {
+    id: 5,
+    title: "DBT",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/DBT.svg",
+  },
+  {
+    id: 6,
+    title: "AWS",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/aws.svg",
+  },
+  {
+    id: 7,
+    title: "Terraform",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/terraform.svg",
+  },
+  {
+    id: 8,
+    title: "Kubernetes",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/kubernets.svg",
+  },
+  {
+    id: 9,
+    title: "Airflow",
+    desc: "",
+    className: "md:col-span-2",
+    thumbnail: "/Airflow.svg",
+  },
+  {
+    id: 10,
     title: "Python",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/Python.svg",
   },
   {
-    id: 2,
+    id: 11,
     title: "c++",
     desc: "",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/c++.svg",
   },
   {
-    id: 3,
+    id: 12,
     title: "SAP",
     desc: "",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/SAP.svg",
   },
   {
-    id: 4,
+    id: 13,
     title: "PowerBI",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/powerBI.svg",
   },
   {
-    id: 5,
-    title: "Creo",
+    id: 14,
+    title: "Java script",
     desc: "",
     className: "md:col-span-2",
-    thumbnail: "/Creo.svg",
+    thumbnail: "/js.svg",
   },
   {
-    id: 6,
+    id: 15,
     title: "Excel",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/Excel.svg",
   },
   {
-    id: 7,
+    id: 16,
     title: "SQL",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/SQL.svg",
   },
   {
-    id: 8,
-    title: "Java script",
+    id: 17,
+    title: "Creo",
     desc: "",
     className: "md:col-span-2",
-    thumbnail: "/js.svg",
+    thumbnail: "/Creo.svg",
   },
 ];
 
@@ -238,12 +301,14 @@ export const workExperience2 = [
 ];
 */
 
+
 export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
     link: "https://github.com/renaissanc"
   },
+  /*
   {
     id: 2,
     img: "/twit.svg",
@@ -259,4 +324,7 @@ export const socialMedia = [
     img: "/instagram-white.svg",
     link: "https://www.instagram.com/murtaza_a1i_/?utm_source=qr&igsh=aHQ5OHo0YWU1dXVs"
   },
+  */
 ];
+
+
