@@ -85,7 +85,8 @@ export const projects = [
     des: "Have a look at my projects.",
     img: "/git.svg",
     iconLists: ["/Python.svg", "/panda.svg", "/numpy.svg", "/matplotlib.svg"],
-    link: "https://github.com/renaissanc/PortfolioOpt/tree/master",
+    link: "https://github.com/mustafa0610/"
+    //link: "https://github.com/renaissanc/PortfolioOpt/tree/master",
   },
   /*
   {
@@ -326,7 +327,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/renaissanc/PortfolioOpt/tree/master"
+    link: "https://github.com/mustafa0610/"
     //link: "https://github.com/renaissanc"
   },
   /*
