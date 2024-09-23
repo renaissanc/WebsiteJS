@@ -88,6 +88,14 @@ export const projects = [
     link: "https://github.com/mustafa0610/"
     //link: "https://github.com/renaissanc/PortfolioOpt/tree/master",
   },
+  {
+    id: 2,
+    title: "Why you should hire me?",
+    des: "",
+    img: "/stock-movement.svg",
+    iconLists: ["/matplotlib.svg"],
+    link: "https://docs.google.com/presentation/d/14VQ0Exl0dvzf_Nzlr76Z_xtV7bq1ctEtlxTpu5ZQkYc/edit?usp=sharing",
+  },
   /*
   {
     id: 1,
