@@ -16,14 +16,14 @@ const Footer = () => {
           Thank you for dropping by.
         </p>
         <div className="flex ">
-          <a download href="/CV_Mustafa_Lakhani.pdf" className="download-btn" style={{ marginRight: 20 }}>
+          <a download href="/Resume.pdf" className="download-btn" style={{ marginRight: 20 }}>
             <MagicButton
               title="Download Resume"
               icon={<IoDownload />}
               position="right"
             />
           </a>
-          <a href="mailto:mustafa.ml.lakhani@gmail.com">
+          <a href="mailto:murtaza.ml.lakhani@gmail.com">
             <MagicButton
               title="Let's get in touch"
               icon={<FaLocationArrow />}
@@ -34,7 +34,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Mustafa Lakhani.
+          Copyright © 2024 Murtaza Lakhani.
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">

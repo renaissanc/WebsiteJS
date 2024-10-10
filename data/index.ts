@@ -17,7 +17,7 @@ export const gridItems = [
     className: "lg:col-span-2 md:col-span-2 md:row-span-2",
     imgClassName: "w-full h-full right-50",
     titleClassName: "justify-end",
-    img: "/selfme.jpg",
+    img: "/selfweb.jpg",
     spareImg: "",
   },
   {
@@ -79,6 +79,7 @@ export const gridItems = [
 ];
 
 export const projects = [
+  /*
   {
     id: 1,
     title: "My Portfolio",
@@ -96,7 +97,7 @@ export const projects = [
     iconLists: ["/matplotlib.svg"],
     link: "https://docs.google.com/presentation/d/14VQ0Exl0dvzf_Nzlr76Z_xtV7bq1ctEtlxTpu5ZQkYc/edit?usp=sharing",
   },
-  /*
+  */
   {
     id: 1,
     title: "Portfolio Optimization",
@@ -113,7 +114,7 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/renaissanc/WebsiteJS",
   },
-  */
+  
   /*
   {
     id: 2,
@@ -176,6 +177,7 @@ export const companies = [
 ];
 
 export const workExperience = [
+  /*
   {
     id: 1,
     title: "Docker",
@@ -239,57 +241,58 @@ export const workExperience = [
     className: "md:col-span-2",
     thumbnail: "/Airflow.svg",
   },
+  */
   {
-    id: 10,
+    id: 1,
     title: "Python",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/Python.svg",
   },
   {
-    id: 11,
+    id: 2,
     title: "c++",
     desc: "",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/c++.svg",
   },
   {
-    id: 12,
+    id: 3,
     title: "SAP",
     desc: "",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/SAP.svg",
   },
   {
-    id: 13,
+    id: 4,
     title: "PowerBI",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/powerBI.svg",
   },
   {
-    id: 14,
+    id: 5,
     title: "Java script",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/js.svg",
   },
   {
-    id: 15,
+    id: 6,
     title: "Excel",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/Excel.svg",
   },
   {
-    id: 16,
+    id: 7,
     title: "SQL",
     desc: "",
     className: "md:col-span-2",
     thumbnail: "/SQL.svg",
   },
   {
-    id: 17,
+    id: 8,
     title: "Creo",
     desc: "",
     className: "md:col-span-2",
@@ -335,8 +338,8 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/mustafa0610/"
-    //link: "https://github.com/renaissanc"
+    //link: "https://github.com/mustafa0610/"
+    link: "https://github.com/renaissanc"
   },
   /*
   {
