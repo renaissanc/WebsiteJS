@@ -1,4 +1,3 @@
-import { IoBody } from "react-icons/io5";
 
 export default function Rag_bot() {
     return (
@@ -10,7 +9,7 @@ export default function Rag_bot() {
             An wen muss ich mich wenden, wenn ich Studienleistungen aus meinem früheren Studium anrechnen lassen möchte? / Whom should I contact if I want to transfer credits from my previous studies?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
-            Weitere Informationen zur Anrechnung finden Sie im E-Learning-Kurs "Infosession - credit transfer" der Fakultät Wirtschaftsingenieurwesen und auf den Seiten des Hochschulservice Studium HSST.
+            Weitere Informationen zur Anrechnung finden Sie im E-Learning-Kurs Infosession - credit transfer der Fakultät Wirtschaftsingenieurwesen und auf den Seiten des Hochschulservice Studium HSST.
 
             SEHR WICHTIG: Ein Antrag auf Anrechnung kann nur einmal und nur in den ersten vier Wochen ihres ersten Semesters gestellt werden bei Studienbeginn im Wintersemester bis 1.11., bei Studienbeginn im Sommersemester bis 15.04..
 
@@ -480,9 +479,9 @@ export default function Rag_bot() {
             Virtuelle Hochschule Bayern
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
-            Neben dem Kursangebot der THWS können Studierende Kurse der "Virtuellen Hochschule Bayern" vhb belegen. Einige der Kurse können angerechnet werden. Die aktuelle Liste der anrechenbaren Kurse finden Sie in diesem e-learning Kurs unter der Rubrik "Weitere Informationen und Dokumente / Further information and documents".
+            Neben dem Kursangebot der THWS können Studierende Kurse der Virtuellen Hochschule Bayern vhb belegen. Einige der Kurse können angerechnet werden. Die aktuelle Liste der anrechenbaren Kurse finden Sie in diesem e-learning Kurs unter der Rubrik Weitere Informationen und Dokumente / Further information and documents.
 
-            In addition to the courses offered by THWS, students can take courses offered by the "Virtual University of Bavaria" vhb. Some of the courses can be transferred. The current list of courses that can be transferred can be found within this e-learning course under the heading "Weitere Informationen und Dokumente / Further information and documents".
+            In addition to the courses offered by THWS, students can take courses offered by the Virtual University of Bavaria vhb. Some of the courses can be transferred. The current list of courses that can be transferred can be found within this e-learning course under the heading Weitere Informationen und Dokumente / Further information and documents.
 
 
             Keywords:
@@ -592,7 +591,7 @@ export default function Rag_bot() {
             Keywords:
             Praxissemester, internhship semester, Berufsausbildung, work experience
             Question:
-            Was bedeutet: "Generalist"? / What does it mean „to be generalist“?
+            Was bedeutet: Generalist? / What does it mean „to be generalist“?
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
             Answer:
             Als Generalist vertiefen Sie sich nicht. Die Konsequenz ist, dass in Ihrem Bachelor-Zeugnis KEIN Vermerk über eine Vertiefung steht.
@@ -602,10 +601,10 @@ export default function Rag_bot() {
             Keywords:
             Vertiefung, Vertiefungen, specialisation, specialisations, Schwerpunkt, Generalist. generalist
             Question:
-            Was bedeutet: "Vertiefungsbereich/Schwerpunkt"? / What does it mean „to be specialised“?
+            Was bedeutet: Vertiefungsbereich/Schwerpunkt? / What does it mean „to be specialised“?
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
             Answer:
-            In jedem Vertiefungsbereich gibt es Pflicht- und Wahlpflichtmodule. Um sich zu vertiefen, z.B. im Vertiefungsbereich ‚Produktion‘, müssen Sie die zwei festgelegten Pflichtmodule belegen und wählen zusätzlich zwei Wahlpflichtmodule aus einem Katalog von mehreren Angeboten. Wenn Sie dies tun, erhalten Sie den zusätzlichen Vermerk zu Ihrer Vertiefung in Ihrem Bachelor-Zeugnis.
+            In jedem Vertiefungsbereich gibt es Pflicht- und Wahlpflichtmodule. Um sich zu vertiefen, z.B. im Vertiefungsbereich ‚Produktion&apos, müssen Sie die zwei festgelegten Pflichtmodule belegen und wählen zusätzlich zwei Wahlpflichtmodule aus einem Katalog von mehreren Angeboten. Wenn Sie dies tun, erhalten Sie den zusätzlichen Vermerk zu Ihrer Vertiefung in Ihrem Bachelor-Zeugnis.
 
             In each specialisation area you find core modules and elective modules. In order to become specialised, let’s say in Production, you have to take the two fix core modules plus a choice of additional two elective modules out of the catalogue of electives modules. If you do that, you will have the additional remark about your specialization area in your Bachelor certificate.
 
@@ -711,10 +710,10 @@ export default function Rag_bot() {
             Was ist, wenn ich Probleme habe, die Dokumente für die Notenanrechnung innerhalb von vier Wochen zu erhalten? / What if I have trouble getting the credit transfer documents within four weeks?
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
             Answer:
-            Dann schreiben Sie bitte eine Mail an credittransfer.fwi@thws.de, damit wir eine gemeinsame Lösung finden können. Das heißt, bitte warten Sie nicht, bis Sie die Unterlagen "irgendwann" erhalten - bitte schreiben Sie uns bis zum 1. November bei Studienbeginn im Wintersemester / 15. April bei Studienbeginn im Sommersemester eine Nachricht, dass Sie Schwierigkeiten mit der Dokumentenbeschaffung haben. Alle nach diesem Datum eingehenden Meldungen können nicht berücksichtigt werden.
+            Dann schreiben Sie bitte eine Mail an credittransfer.fwi@thws.de, damit wir eine gemeinsame Lösung finden können. Das heißt, bitte warten Sie nicht, bis Sie die Unterlagen irgendwann erhalten - bitte schreiben Sie uns bis zum 1. November bei Studienbeginn im Wintersemester / 15. April bei Studienbeginn im Sommersemester eine Nachricht, dass Sie Schwierigkeiten mit der Dokumentenbeschaffung haben. Alle nach diesem Datum eingehenden Meldungen können nicht berücksichtigt werden.
             Weitere Informationen: Notenanrechnung / Credit Transfer
 
-            Then please write a mail to credittransfer.fwi@thws.de, so that we can find a common solution. That means please don't wait until you receive the documents "sometime" - please write us a message before 1 November if you started your studies in winter semester / 15 April if you started your studies in summer semester that you have difficulties with the document procurement. All messages received after this date can not be considered.
+            Then please write a mail to credittransfer.fwi@thws.de, so that we can find a common solution. That means please don't wait until you receive the documents sometime - please write us a message before 1 November if you started your studies in winter semester / 15 April if you started your studies in summer semester that you have difficulties with the document procurement. All messages received after this date can not be considered.
             Weitere Informationen: Notenanrechnung / Credit Transfer
 
             Keywords:
@@ -813,7 +812,7 @@ export default function Rag_bot() {
             Keywords:
             vhb, Kurse, courses, virtuelle Hochschule, virtual university
             Question:
-            Welche Module kann ich wählen, wenn ich „Generalist“ werden möchte? / Which modules can I choose if I want to become a "generalist"?
+            Welche Module kann ich wählen, wenn ich „Generalist“ werden möchte? / Which modules can I choose if I want to become a generalist?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
             Sie können die vier benötigten Module aus allen FWPM, die angeboten werden, wählen.
@@ -843,9 +842,9 @@ export default function Rag_bot() {
             Welche Möglichkeiten habe ich, wenn ich im Ausland studieren möchte? / What options do I have if I want to study abroad?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
-            Ausführliche Informationen zum Auslandsstudium finden Sie im E-Learning-Kurs "Studieren im Ausland FWI / Studying Aborad FWI". Für weitere Informationen zum Auslandsstudium wenden Sie sich gerne per Mail  international.FWI@thws.de  an unser Team  
+            Ausführliche Informationen zum Auslandsstudium finden Sie im E-Learning-Kurs Studieren im Ausland FWI / Studying Aborad FWI. Für weitere Informationen zum Auslandsstudium wenden Sie sich gerne per Mail  international.FWI@thws.de  an unser Team  
 
-            Full Information regarding Studying Abroad can be found in the e-learning course "Studieren im Ausland FWI / Studying Abroad FWI". For further information regarding studying abroad, please contact our team via email:  international.FWI@thws.de
+            Full Information regarding Studying Abroad can be found in the e-learning course Studieren im Ausland FWI / Studying Abroad FWI. For further information regarding studying abroad, please contact our team via email:  international.FWI@thws.de
 
             Keywords:
             Auslandssemester, studying abroad, Auslandsstudium, semester abroad
@@ -865,12 +864,12 @@ export default function Rag_bot() {
             Answer:
             Studierendenportal: Anmeldung zu den AWPF
             CampusPortal: Rückmeldung jedes Semester, Prüfungsanmeldung, Download von Nachweisen, Prüfungsergebnisse, Änderung der persönlichen Daten. Alles rund um das CampusPortal finden Sie außerdem in diesem E-Learning-Kurs.
-            E-Learning: Hier finden Sie insbesondere Informationen zu einzelnen Kursen. Jedes Modul, das sie ablegen, hat einen eigenen Kurs. Besonders wichtig sind außerdem der Kurs "Studien- und Prüfungsangelegenheiten / Study and Examination matters" Vorlesungspläne, Prüfungspläne und weiterführende Infos zu fast allen Themen ihres Studiums, Kurs "Laborschein WI LABO" am besten ab dem 2. Semester anmelden, Kurs "Praxissemester / Intership semester BWW/IBE" bzw. "Praxissemester / Internship semester BLO/IBL" Informationen zum Praxissemester und Kurs "Studieren im Ausland FWI / Studying Abroad FWI" Informationen zum Auslandssemester.
+            E-Learning: Hier finden Sie insbesondere Informationen zu einzelnen Kursen. Jedes Modul, das sie ablegen, hat einen eigenen Kurs. Besonders wichtig sind außerdem der Kurs Studien- und Prüfungsangelegenheiten / Study and Examination matters Vorlesungspläne, Prüfungspläne und weiterführende Infos zu fast allen Themen ihres Studiums, Kurs Laborschein WI LABO am besten ab dem 2. Semester anmelden, Kurs Praxissemester / Intership semester BWW/IBE bzw. Praxissemester / Internship semester BLO/IBL Informationen zum Praxissemester und Kurs Studieren im Ausland FWI / Studying Abroad FWI Informationen zum Auslandssemester.
 
 
             Student portal: registration for AWPF
             CampusPortal: re-enrollment every semester, exam registration, download of certificates, exam results, change of personal data. Further information about the CampusPortal can also be found in the respechtive elearning course.
-            E-Learning: Here you will find information about your modules. Each module you take has its own course. Particularly important are also the course "Studien- und Prüfungsangelegenheiten / Study and Examination Matters" course schedules, examination schedules and further information on almost all topics of your studies, course "Laboratory Tests LABT" it is best to register from the 2nd semester, course "Praxissemester / Intership semester BWW/IBE" or "Praxissemester / Internship semester BLO/IBL" information about your internship semester and course "Studieren im Ausland FWI / Studying Abroad FWI" information about the semester abroad.
+            E-Learning: Here you will find information about your modules. Each module you take has its own course. Particularly important are also the course Studien- und Prüfungsangelegenheiten / Study and Examination Matters course schedules, examination schedules and further information on almost all topics of your studies, course Laboratory Tests LABT it is best to register from the 2nd semester, course Praxissemester / Intership semester BWW/IBE or Praxissemester / Internship semester BLO/IBL information about your internship semester and course Studieren im Ausland FWI / Studying Abroad FWI information about the semester abroad.
 
 
             Keywords:
@@ -879,9 +878,9 @@ export default function Rag_bot() {
             Welches Studien- und Prüfungsordnung gilt für mich? Which study and examination regulations are valid for me?
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
             Answer:
-            Welche Studien- und Prüfungsordnung SPO für Sie gilt, hängt davon ab, wann Sie ihr Studium begonnen haben. In der Regel enthält der Paragraph zu den "Übergangsbestimmungen" den Hinweis auf die entsprechende Zuordnung. Die vorhanden Studien- und Prüfungsordnungen finden Sie auf der Webseite unter https://intranet.fwi.fhws.de/studierende/studien_u_pruefungs_angelegenheiten_examination_regulations.html nach Log-in mit mit ihrer K-Nummer + Kennwort.
+            Welche Studien- und Prüfungsordnung SPO für Sie gilt, hängt davon ab, wann Sie ihr Studium begonnen haben. In der Regel enthält der Paragraph zu den Übergangsbestimmungen den Hinweis auf die entsprechende Zuordnung. Die vorhanden Studien- und Prüfungsordnungen finden Sie auf der Webseite unter https://intranet.fwi.fhws.de/studierende/studien_u_pruefungs_angelegenheiten_examination_regulations.html nach Log-in mit mit ihrer K-Nummer + Kennwort.
 
-            Which study and examination regulations SER apply to you depends on the beginning of your studies. Usually, the paragraph on the "transitional provisions" contains a reference to the relevant allocation. The existing study and examination regulations can be found on the website at https://intranet.fwi.fhws.de/studierende/studien_u_pruefungs_angelegenheiten_examination_regulations.html after log-in with your K-number + password.
+            Which study and examination regulations SER apply to you depends on the beginning of your studies. Usually, the paragraph on the transitional provisions contains a reference to the relevant allocation. The existing study and examination regulations can be found on the website at https://intranet.fwi.fhws.de/studierende/studien_u_pruefungs_angelegenheiten_examination_regulations.html after log-in with your K-number + password.
 
 
 
@@ -909,9 +908,9 @@ export default function Rag_bot() {
             Welche Vorlesungen werden in diesem Semester angeboten? / What classes will be offered this semester?
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
             Answer:
-            Die angebotenen Vorlesungen sind im Studienplan zu finden. Der Studienplan ist im e-Learning-Kurs "Studien- und Prüfungsangelegenheiten/study and examination matters" verfügbar. 
+            Die angebotenen Vorlesungen sind im Studienplan zu finden. Der Studienplan ist im e-Learning-Kurs Studien- und Prüfungsangelegenheiten/study and examination matters verfügbar. 
 
-            The offered lectures can be found in the study plan. The study plan is available in the e-learning "Studien- und Prüfungsangelegenheiten/study and examination matters" course.
+            The offered lectures can be found in the study plan. The study plan is available in the e-learning Studien- und Prüfungsangelegenheiten/study and examination matters course.
 
             Keywords:
             Vorlesungen, Plan, lectures, course, Kurse
@@ -935,7 +934,7 @@ export default function Rag_bot() {
 
 
 
-            No, some modules are only offered in winter semester OR only in summer semester. Binding information on this can be found in the study plan for the respective semester, which is published at the end of each semester for the following semester in the e-learning course"Study and Examination Matters". The information in the IBE Module Handbook serves as orientation and is not binding.
+            No, some modules are only offered in winter semester OR only in summer semester. Binding information on this can be found in the study plan for the respective semester, which is published at the end of each semester for the following semester in the e-learning courseStudy and Examination Matters. The information in the IBE Module Handbook serves as orientation and is not binding.
 
             On special occasions, e.g. when we have guest lecturers from partner universities at our faculty, we offer additional elective modules that are not in the module handbook. You will then receive separate information to which of the specialisation area they count.
 
@@ -991,7 +990,7 @@ export default function Rag_bot() {
             Wie benutze ich das Campus-Portal? / How to use the campus portal?
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
             Answer:
-            Hilfestellung zum Thema CampusPortal finden Sie im E-Learning-Kurs "Studierende Schulungsmaterial - THWS CampusPortal". 
+            Hilfestellung zum Thema CampusPortal finden Sie im E-Learning-Kurs Studierende Schulungsmaterial - THWS CampusPortal. 
 
             There is a e-learning course for easy usage of the campus portal. Therefore please register in the e-learning course “Studierende Schulungsmaterial – THWS CampusPortal”.
 
@@ -1086,7 +1085,7 @@ export default function Rag_bot() {
             Wie kann ich kostenlosen Zugang zu Tools/Software erhalten, die Teil eines Fachmoduls meines Studiengangs sind? / How can I get free access to tools/software that are part of a subject module in my study programme?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
-            Studierende der THWS können über "Studisoft - THWS" kostenlos auf Software wie Matlab, Microsoft Office 365, Labview, etc. zugreifen. Weitere Informationen und den Zugang zur Software finden Sie hier.
+            Studierende der THWS können über Studisoft - THWS kostenlos auf Software wie Matlab, Microsoft Office 365, Labview, etc. zugreifen. Weitere Informationen und den Zugang zur Software finden Sie hier.
 
             Students of THWS can have free access to software such as Matlab, Microsoft Office 365, Labview, etc. through “Studisoft – THWS”. Further information and access to the software can be found here.
 
@@ -1105,7 +1104,7 @@ export default function Rag_bot() {
             Wie kann ich meinen Studiengang wechseln? / What is the process for changing my study programme?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
-            Bitte informieren Sie sich auf den Webseiten des Hochschulservice Studium HSST über den Bewerbungszeitraum sowie die einzureichenden Unterlagen. Sobald Sie im "neuen" Studiengang eingeschrieben sind, können Sie einen Antrag auf Notenanrechnung stellen. Verwenden Sie dazu dieses Antragsformular und senden Sie es über das Kontaktformular an HSST. Wichtig: Sie können den Antrag nur einmal und nur innerhalb der ersten vier Wochen nach der Immatrikulation stellen.
+            Bitte informieren Sie sich auf den Webseiten des Hochschulservice Studium HSST über den Bewerbungszeitraum sowie die einzureichenden Unterlagen. Sobald Sie im neuen Studiengang eingeschrieben sind, können Sie einen Antrag auf Notenanrechnung stellen. Verwenden Sie dazu dieses Antragsformular und senden Sie es über das Kontaktformular an HSST. Wichtig: Sie können den Antrag nur einmal und nur innerhalb der ersten vier Wochen nach der Immatrikulation stellen.
 
             Please inform yourself on the websites of the Department of Student Affairs HSST abour the application period and necessary documents. As soon as you are enrolled in the “new” programme you are allowed to apply for credit transfer. Therefore use this application form and send it to HSST through their contact form. Important: you can only apply once and only within the first four weeks after enrollment.
 
@@ -1136,9 +1135,9 @@ export default function Rag_bot() {
             Wie melde ich mich für das E-Learning-Modul Laborschein an? / How do I register for the Laboratory tests e-learning module?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
-            Für den E-Learning-Kurs "Laborschein WI" können Sie sich nur nach Teilnahme an der Einführungsveranstaltung anmelden. Die Einführungsveranstaltung findet jedes Semester statt. Datum, Uhrzeit und Ort finden Sie im E-Learning-Kurs "Studien- und Prüfungsangelegenheiten / Study and Examination Matters" im Abschnitt "Studienplan". Über die "News der Studiengänge BWW, IBE / News for the degree programmes IBE, BWW" werden sie zusätzlich über den Termin informiert. Für weitere Fragen zum Modul Laborschein wenden Sie sich bitte an Frau Michèle Ullerich michele.ullerich@thws.de.
+            Für den E-Learning-Kurs Laborschein WI können Sie sich nur nach Teilnahme an der Einführungsveranstaltung anmelden. Die Einführungsveranstaltung findet jedes Semester statt. Datum, Uhrzeit und Ort finden Sie im E-Learning-Kurs Studien- und Prüfungsangelegenheiten / Study and Examination Matters im Abschnitt Studienplan. Über die News der Studiengänge BWW, IBE / News for the degree programmes IBE, BWW werden sie zusätzlich über den Termin informiert. Für weitere Fragen zum Modul Laborschein wenden Sie sich bitte an Frau Michèle Ullerich michele.ullerich@thws.de.
 
-            You can only register for the laboratory tests e-learning course "Laboratory Tests LABT" after attending the introductory session. The introductory session takes place every semester. The date, time and place will be available in Studien- und Prüfungsangelegenheiten / Study and Examination matters e-learning course under the “Course Schedule” section. You will also be informed about the session via the "News der Studiengänge BWW, IBE / News for the degree programmes IBE, BWW". For further questions related to the module "Laboratory Tests" please contact Ms. Michèle Ullerich michele.ullerich@thws.de.
+            You can only register for the laboratory tests e-learning course Laboratory Tests LABT after attending the introductory session. The introductory session takes place every semester. The date, time and place will be available in Studien- und Prüfungsangelegenheiten / Study and Examination matters e-learning course under the “Course Schedule” section. You will also be informed about the session via the News der Studiengänge BWW, IBE / News for the degree programmes IBE, BWW. For further questions related to the module Laboratory Tests please contact Ms. Michèle Ullerich michele.ullerich@thws.de.
 
             Keywords:
             Laborversuch, laboratory tests, General Safety Aspects for Working in the Laboratory, Sicherheitsunterweisung
@@ -1239,7 +1238,7 @@ export default function Rag_bot() {
             Ausnahme: AWPM/GENE. Die organisatorische Verantwortung für die AWPM/GENE liegt bei der Fakultät Angewandte Natur- und Geisteswissenschaften. Die Anmeldung erfolgt über das Studierendenportal der THWS. Dort finden Sie auch die Anmeldefrist. Weitere Informationen zu den AWPF/GENE finden Sie außerdem hier.
 
 
-            For more information on the registration period and procedure, please refer to the study plan. The study plan is available in the e-learning course "Studien- und Prüfungsangelegenheiten/study and examination matters".
+            For more information on the registration period and procedure, please refer to the study plan. The study plan is available in the e-learning course Studien- und Prüfungsangelegenheiten/study and examination matters.
 
             Exception: AWPM/GENE. The organizational responsibility for AWPM/GENE lies with the Faculty of Applied Sciences and Humanities. Registration is done via the THWS student portal. There you will also find the registration deadline. You can also find more information about the AWPF/GENE here.
 
@@ -1251,7 +1250,7 @@ export default function Rag_bot() {
             Answer:
             Modulbeschreibungen finden Sie im BWW Modulhandbuch.
             Der Mechanismus der Vertiefungsthemen wird in der SPO§5 erläutert.
-            Die für den jeweiligen Vertiefungsbereich zuständigen Professoren:innen haben im E-Learning-Kurs "Studien- und Prüfungsangelegenheiten" Videos veröffentlicht.
+            Die für den jeweiligen Vertiefungsbereich zuständigen Professoren:innen haben im E-Learning-Kurs Studien- und Prüfungsangelegenheiten Videos veröffentlicht.
             Jährlich findet eine Infoveranstaltung statt meist Okt/Nov. Der genaue Termin der Infoveranstaltung wird im E-Learning bekannt gegeben.
 
 
@@ -1307,7 +1306,7 @@ export default function Rag_bot() {
 
 
             In the e-learning course Studieren im Ausland FWI/Studying Abroad FWI. Also, subscribe to Announcements in this course to receive up-to-date information, dates, and deadlines.
-            On the website of our faculty in the section "International".
+            On the website of our faculty in the section International.
             On the website THWS International.
             On the website of the respective partner university.
             In conversation with the contact persons/officials of our faculty.
@@ -1337,7 +1336,7 @@ export default function Rag_bot() {
             - We need to explain this thoroughly. The onus is on us, i.e. we cannot simply plan SOMETHING and hope that the
             potential investors will figure out whether our approach will be profitable, but it is on us to explain everything and to
             convince investors. To be convincing, we need to be as specific and concrete as possible. E.g., instead of writing
-            We will do influencer marketing" we should write specifically which influencers we would like to cooperate with, why, how
+            We will do influencer marketing we should write specifically which influencers we would like to cooperate with, why, how
             expensive they will be, along with correct sources/citations. This principle of specificity holds for the entire business plan.
             From a business idea to an established company
             Creation of
@@ -1374,7 +1373,7 @@ export default function Rag_bot() {
             Financial problems
             Design and planning errors
             Unsifficient qualifications
-            Overestimation of one‘s own capabilities
+            Overestimation of one&aposs own capabilities
             Lacking commitment
             Quelle: Maisberger et al. 1998
             17
@@ -1635,7 +1634,7 @@ export default function Rag_bot() {
             Possibly appendix
             Business model, business system and Organisation
             Objective Content
-             Shows the company‘s
+             Shows the company&aposs
             positioning in the market
              Classification of the company
             in its competitive environment
@@ -1758,7 +1757,7 @@ export default function Rag_bot() {
             51
             Analyse the market size
              Sales volume
-            Entity of a company‘s sales volume based
+            Entity of a company&aposs sales volume based
             on a certain product.
              Market growth
             How is the market volume and the
@@ -1879,7 +1878,7 @@ export default function Rag_bot() {
             Partnerships and cooperations
             Presentation:
              List of competitors
-             Competitor‘s characteristics
+             Competitor&aposs characteristics
              SWOT Analysis of the
             competition
              Acticity and segment matrix
@@ -2048,7 +2047,7 @@ export default function Rag_bot() {
              Fear of lock-in
              Uncertainty regarding Acquisition cost, operating cost and follow-up cost
              High switching costs
-             "budget is exhaustet"
+             budget is exhaustet
             64
             Or slotting fees/
             prominent positioning
@@ -2334,7 +2333,7 @@ export default function Rag_bot() {
             Number of available days per seller and year
             weekends, holidays, sick days, instruction courses, internal meetings
             200 days
-            Thereof active selling time at customer‘s Assumption 25%
+            Thereof active selling time at customer&aposs Assumption 25%
             Rest: travel- , documentation-, postprocessing time etc.
             50 days
             2 to 5 visits in the sales are per visting day 3 visits/ day
@@ -2374,7 +2373,7 @@ export default function Rag_bot() {
              Sustainability due to patential protection
              Confirmation of a minimum fee
              No customer relations
-             Lion‘s share of value added made by
+             Lion&aposs share of value added made by
             licensees
              Introduction of new products to highly
             competitive markets
@@ -2475,7 +2474,7 @@ export default function Rag_bot() {
             • If you execute all three methods thoroughly and if you cite sources, then investors
             get a professional and convincing impression of you. If you just wildly guess your
             price, then investors don't know whether you maximize profits. You should
-            convince investors that you have done all your "homework" in a professional
+            convince investors that you have done all your homework in a professional
             manner.
             4
              Definition of pricing strategies
@@ -2592,7 +2591,7 @@ export default function Rag_bot() {
             - Exhibitions/ trade shows: Which ones? Why? How expensive?
             - The details matter most!
             Similarly to sales channels, money of a start-up is very limited. Hence, you need to prioritize and precisely
-            target your customers to get the highest "bang for the buck". You need to explain your promotion approach
+            target your customers to get the highest bang for the buck. You need to explain your promotion approach
             to investors with concrete details and relevant sources/ citations.
              Placing information regarding the existance of the
             innovation product advertisement and
@@ -2659,7 +2658,7 @@ export default function Rag_bot() {
             in b2b and for complex product that
             need in-depth explanations
             Example of a small country bakery:
-            "Good Morning Mrs. Smith, two bread and two
+            Good Morning Mrs. Smith, two bread and two
             croissants as always?
             Also, I put two slices of the strawberry cake that
             you like so much aside!
