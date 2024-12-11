@@ -43,7 +43,7 @@ export default function Rag_bot() {
             Dies bestimmt jeweils die Partnerhochschule. Manche Hochschulen verlangen keinen Sprachnachweis, wieder andere den Nachweis über Englischkenntnisse auf einem bestimmten Niveau, der mit bestimmten Tests z.B. TOEFEL, IELTS nachgewiesen werden muss. Bitte informieren Sie sich auf der Internetseite der entsprechenden Hochschule darüber.
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
-            This is determined by the partner university. Some universities do not require any language certificates, others require proof of English language skills at a certain language level that must be substantiated by certain language tests e.g. TOEFEL, IELTS. Please check the partner university’s website for more details.
+            This is determined by the partner university. Some universities do not require any language certificates, others require proof of English language skills at a certain language level that must be substantiated by certain language tests e.g. TOEFEL, IELTS. Please check the partner university&aposs website for more details.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -116,7 +116,7 @@ export default function Rag_bot() {
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
             At some partner universities, there may be restrictions, because some only offer engineering subjects, others only business subjects. Some partner universities limit the number of courses you can take which makes it impossible to reach the full workload for an THWS semester. THWS accepts this, but when choosing your partner university, you should consider whether you accept this, too, or whether you prefer choosing another partner university.
-            Interested students should check the universities’ websites directly about their offerings and contact the person maintaining the contact to the university in case of questions.
+            Interested students should check the universities&apos websites directly about their offerings and contact the person maintaining the contact to the university in case of questions.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -238,7 +238,7 @@ export default function Rag_bot() {
             Keywords:
             Notenanrechnung, credit transfer, Frist, deadline, Fristen, deadlines
             Question:
-            Kann ich auf die Aufzeichnungen der Module des ersten Semesters zugreifen? / Can I access recordings for the modules in the first semester as I can’t make it to Germany on time due to visa-related issues?
+            Kann ich auf die Aufzeichnungen der Module des ersten Semesters zugreifen? / Can I access recordings for the modules in the first semester as I can&apost make it to Germany on time due to visa-related issues?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
             Die Hochschule ist nicht verpflichtet, aufgezeichnete Vorlesungen zur Verfügung zu stellen, falls Sie es nicht rechtzeitig zum Semesterbeginn nach Deutschland schaffen. Sie können sich jedoch mit den entsprechenden Dozentinnen und Dozenten in Verbindung setzen, um zu erfahren, ob aufgezeichnete Vorlesungen verfügbar sind, oder um deren Empfehlungen zu erhalten, wie Sie sich auf dem Laufenden halten können. Die Namen der Dozentinnen und Dozenten finden Sie im Studienplan oder Modulhandbuch ihres Studiengangs. 
@@ -264,7 +264,7 @@ export default function Rag_bot() {
             Falls Sie sich an Ihrer Parteihochschule sehr unwohl fühlen oder aus anderen Gründen einen Abbruch des Auslandssemesters in Erwägung ziehen, kontaktieren Sie bitte unbedingt vorher den Auslandsbeauftragten der Fakultät oder Ihren Betreuer! Ein Abbruch sollte möglichst vermieden werden. Wir als Fakultät unterstützen Sie auf Nachfrage gerne bei der Lösungsfindung. Sollte aus zwingenden Gründen dennoch ein Abbruch nötig sein, werden ausgezahlte ERASMUS Förderungen zurückverlangt.
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
-            If you feel very uncomfortable at your partner university or if you are considering canceling your semester abroad for other reasons, please contact the Faculty’s International Affairs Officer or your supervisor beforehand! A break off should be avoided whenever possible. Upon request, we as your Faculty will support you in finding a solution. Please note that in the case of a cancelation for compelling reasons, paid ERASMUS grant will be reclaimed.
+            If you feel very uncomfortable at your partner university or if you are considering canceling your semester abroad for other reasons, please contact the Faculty&aposs International Affairs Officer or your supervisor beforehand! A break off should be avoided whenever possible. Upon request, we as your Faculty will support you in finding a solution. Please note that in the case of a cancelation for compelling reasons, paid ERASMUS grant will be reclaimed.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -290,7 +290,7 @@ export default function Rag_bot() {
 
 
             If the summer semester is possible for going abroad depends on the academic year in your desired country. As an example, in New Zealand and Australia just the summer semester is possible, because during a winter semester the examination period at THWS overlaps with the semester start in these countries.
-            If you are interested, please check the universities’ website for the academic calendar.
+            If you are interested, please check the universities&apos website for the academic calendar.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -317,7 +317,7 @@ export default function Rag_bot() {
             Bitte wägen Sie vor dem Unterzeichnen der Annahmeerklärung gut ab, ob Sie das Auslandssemester tatsächlich antreten wollen und können. Sowohl die THWS als auch die Partnerhochschule haben im Hintergrund einen hohen organisatorischen Aufwand. Sollte es aufgrund schwerwiegender Gründe trotzdem dazu kommen, dass Sie das Auslandssemester nicht antreten können, besprechen Sie dies bitte zum frühestmöglichen Zeitpunkt mit dem Auslandsbeauftragten der Fakultät. Sowohl die Fakultät, als auch HSIN muss über den Rücktritt baldmöglichst informiert werden! Bei Erhalt von ERASMUS Förderungen müssen diese an die Hochschule zurückgezahlt werden.
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
-            Before signing the declaration of acceptance, please consider carefully whether you really want to and are able to take up the semester abroad. For both THWS and the partner university there is a high degree of organisational effort involved. Should it nevertheless happen that you are unable to take up the semester abroad for serious reasons, please discuss this with the Faculty’s International Affairs Officer at the earliest possible date. The Faculty as well as the International Office must know about your withdrawal as soon as possible! If you receive an ERASMUS grant, it must be repaid to FHWS.
+            Before signing the declaration of acceptance, please consider carefully whether you really want to and are able to take up the semester abroad. For both THWS and the partner university there is a high degree of organisational effort involved. Should it nevertheless happen that you are unable to take up the semester abroad for serious reasons, please discuss this with the Faculty&aposs International Affairs Officer at the earliest possible date. The Faculty as well as the International Office must know about your withdrawal as soon as possible! If you receive an ERASMUS grant, it must be repaid to FHWS.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -335,7 +335,7 @@ export default function Rag_bot() {
 
             Yes, of course. You can attend the courses in the language of your choice.
 
-            Upon registration for the specific exam, you decide whether you take the English- or German-language exam. For this, you have to submit an informal application in writing to the Department of Student Affairs HSST. The application is to be made before registering for exams. By this application you obligate yourselve to take the exam in the requested study programme and in the respective language. If you fulfil certain prerequisites you can even get a Twin Certificate. But even if you don’t strive for the Twin Certificate, you might consider to have at least one or two courses in German language. This will be a plus when you apply for an internship or a position in a German company later on.
+            Upon registration for the specific exam, you decide whether you take the English- or German-language exam. For this, you have to submit an informal application in writing to the Department of Student Affairs HSST. The application is to be made before registering for exams. By this application you obligate yourselve to take the exam in the requested study programme and in the respective language. If you fulfil certain prerequisites you can even get a Twin Certificate. But even if you don&apost strive for the Twin Certificate, you might consider to have at least one or two courses in German language. This will be a plus when you apply for an internship or a position in a German company later on.
 
             Keywords:
             Vertiefung, Vertiefungen, specialisation, specialisations, Schwerpunkt, Generalist, generalist, Pflichtmodul, Wahlpflichtmodul, core module, elective module, deutsch, englisch, german, english
@@ -346,7 +346,7 @@ export default function Rag_bot() {
             Dies ist nach individueller Absprache und unter Erfüllung bestimmten Bedingungen für Studierende der Studiengänge Wirtschaftsingenieurwesen und Business and Engineering im Bachelor Bereich möglich. Zur Option für einen Doppelabschluss stehen die Tongji University/China sowie die Tec de Monterrey in Mexiko.
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
-            Subject to individual agreements and if certain conditions have been met, students of the bachelor’s programmes in Wirtschaftsingenieurwesen as well as Business and Engineering may earn a double degree. A double degree is currently possible at Tongji University, China and Tec de Monterrey, Mexico.
+            Subject to individual agreements and if certain conditions have been met, students of the bachelor&aposs programmes in Wirtschaftsingenieurwesen as well as Business and Engineering may earn a double degree. A double degree is currently possible at Tongji University, China and Tec de Monterrey, Mexico.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -440,7 +440,7 @@ export default function Rag_bot() {
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
 
-            Don’t just base your decision on which city or country you like. To make a decision, also take the following criteria into account:
+            Don&apost just base your decision on which city or country you like. To make a decision, also take the following criteria into account:
 
             Is it a rather engineering- or business-based university, or can I select courses from both fields?
             Do the modules offered fit my curriculum?
@@ -448,7 +448,7 @@ export default function Rag_bot() {
             How is the climate, the food and culture in my desired country?
             Do I prefer to go abroad during a summer semester and/or during a winter semester?
             What is the cost of living in the host country?
-            Upon request, the contact person responsible for your partner university will support you in making a decision! On our Faculty’s website, you will find a list of our partner universities and the contact persons responsible.
+            Upon request, the contact person responsible for your partner university will support you in making a decision! On our Faculty&aposs website, you will find a list of our partner universities and the contact persons responsible.
 
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
             Keywords:
@@ -503,7 +503,7 @@ export default function Rag_bot() {
 
             You will than get a declaration of acceptance by the international affairs officer; with this, your place at the partner university is safe. By signing this declaration of acceptance, you agree to accept the place and take up your stay abroad. Please upload the signed declaration of acceptance in due time to Moveon. After that, the International Office will contact you to get you in touch with the partner university.
 
-            Technically, the partner university can still reject your application. This, however, is extremely rare and happens only in individually justified Example: Being an engineering student, you apply for a place in an ethnology programme!. Very often, the partner university’s confirmation arrives only a few months before the studies abroad start. Stay patient and positive!
+            Technically, the partner university can still reject your application. This, however, is extremely rare and happens only in individually justified Example: Being an engineering student, you apply for a place in an ethnology programme!. Very often, the partner university&aposs confirmation arrives only a few months before the studies abroad start. Stay patient and positive!
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -542,8 +542,8 @@ export default function Rag_bot() {
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
 
-            During bachelor’s studies, we recommend the 4th and 5th semester for a semester abroad. In general, you are free to apply during any semester. However, it is easier to transfer credits for elective modules from higher semesters than from core modules of the first three semesters.
-            During master’s studies, you can do a semester abroad during any semester, because cooperation with your partner university is based on research in projects.
+            During bachelor&aposs studies, we recommend the 4th and 5th semester for a semester abroad. In general, you are free to apply during any semester. However, it is easier to transfer credits for elective modules from higher semesters than from core modules of the first three semesters.
+            During master&aposs studies, you can do a semester abroad during any semester, because cooperation with your partner university is based on research in projects.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -596,7 +596,7 @@ export default function Rag_bot() {
             Answer:
             Als Generalist vertiefen Sie sich nicht. Die Konsequenz ist, dass in Ihrem Bachelor-Zeugnis KEIN Vermerk über eine Vertiefung steht.
 
-            As a generalist you don’t specialise. Consequence is that in your Bachelor certificate there is NO remark about a specialisation.
+            As a generalist you don&apost specialise. Consequence is that in your Bachelor certificate there is NO remark about a specialisation.
 
             Keywords:
             Vertiefung, Vertiefungen, specialisation, specialisations, Schwerpunkt, Generalist. generalist
@@ -606,7 +606,7 @@ export default function Rag_bot() {
             Answer:
             In jedem Vertiefungsbereich gibt es Pflicht- und Wahlpflichtmodule. Um sich zu vertiefen, z.B. im Vertiefungsbereich ‚Produktion&apos, müssen Sie die zwei festgelegten Pflichtmodule belegen und wählen zusätzlich zwei Wahlpflichtmodule aus einem Katalog von mehreren Angeboten. Wenn Sie dies tun, erhalten Sie den zusätzlichen Vermerk zu Ihrer Vertiefung in Ihrem Bachelor-Zeugnis.
 
-            In each specialisation area you find core modules and elective modules. In order to become specialised, let’s say in Production, you have to take the two fix core modules plus a choice of additional two elective modules out of the catalogue of electives modules. If you do that, you will have the additional remark about your specialization area in your Bachelor certificate.
+            In each specialisation area you find core modules and elective modules. In order to become specialised, let&aposs say in Production, you have to take the two fix core modules plus a choice of additional two elective modules out of the catalogue of electives modules. If you do that, you will have the additional remark about your specialization area in your Bachelor certificate.
 
 
 
@@ -633,7 +633,7 @@ export default function Rag_bot() {
             Es besteht auch die Möglichkeit, zunächst ein Semester im Ausland zu studieren und anschließend im selben Land oder einem anderen Land das Praktikum zu absolvieren.
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
-            There is no general answer to this question. For studies abroad, THWS offers support in organisational matters, credit transfer, etc., while you are on your own when looking for an internship abroad. Please visit the Faculty’s website for more information.
+            There is no general answer to this question. For studies abroad, THWS offers support in organisational matters, credit transfer, etc., while you are on your own when looking for an internship abroad. Please visit the Faculty&aposs website for more information.
             There is also the possibility to study abroad first and doing an internship in the same or a different country afterwards.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
@@ -674,8 +674,8 @@ export default function Rag_bot() {
             Ein Doppelabschluss ist ein Abschluss an der THWS und zudem ein vollwertiger Abschluss an einer Partnerhochschule. Sie erhalten also zwei Bachelorurkunden.
             Weitere Informationen: Studieren im Ausland FWI / Studying Abroad FWI
 
-            The TWIN Certificate is an THWS certificate you can get together with your bachelor’s certificate. If all requirements have been met, it confirms that you possess both English and German language proficiency, intercultural competence and completed English-taught as well as German- taught modules. Please visit the Faculty’s website for more information about the TWIN Certificate.
-            A double degree is a degree earned at THWS and at a partner university at the same time. That means that you will get two bachelor’s certificates.
+            The TWIN Certificate is an THWS certificate you can get together with your bachelor&aposs certificate. If all requirements have been met, it confirms that you possess both English and German language proficiency, intercultural competence and completed English-taught as well as German- taught modules. Please visit the Faculty&aposs website for more information about the TWIN Certificate.
+            A double degree is a degree earned at THWS and at a partner university at the same time. That means that you will get two bachelor&aposs certificates.
             Further information: Studieren im Ausland FWI / Studying Abroad FWI
 
 
@@ -1319,7 +1319,7 @@ export default function Rag_bot() {
             Answer:
             Sie müssen keine separate Meldung machen. Allein die Auswahl der Kurse, d.h. die Tatsache, dass Sie Prüfungen in einem bestimmten Vertiefungsbereich bestanden haben, reicht dem Hochschulservice Studium HSST aus. Wenn Sie alle Voraussetzungen erfüllen, z.B. die Prüfung im Pflichtfach und zwei entsprechende Wahlfächer bestanden haben, erhalten Sie „automatisch“ den Vermerk in Ihrem Zeugnis.
 
-            You don’t have to inform anyone upfront. Only due to the choice of modules, i.e. the fact that you have passed the exam in certain modules, you indicate to the Department of Student Affairs your specialisation area. If you fulfil all prerequisites, meaning you have passed the exam in the two core modules and two corresponding electives, you will get the remark about the specialisation area in your Bachelor certificate.
+            You don&apost have to inform anyone upfront. Only due to the choice of modules, i.e. the fact that you have passed the exam in certain modules, you indicate to the Department of Student Affairs your specialisation area. If you fulfil all prerequisites, meaning you have passed the exam in the two core modules and two corresponding electives, you will get the remark about the specialisation area in your Bachelor certificate.
 
             Keywords:
             Vertiefung, Vertiefungen, specialisation, specialisations, Schwerpunkt, Generalist, generalist, Pflichtmodul, Wahlpflichtmodul, core module, elective module.
