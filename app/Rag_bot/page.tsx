@@ -169,7 +169,7 @@ export default function Rag_bot() {
 
 
             Keywords:
-            Thema, topic, extern, intern, external, internal, Bachelorarbeit, Masterarbeit, bachelor´s thesis, master´s thesis
+            Thema, topic, extern, intern, external, internal, Bachelorarbeit, Masterarbeit, bachelor&aposs thesis, master&aposs thesis
             Question:
             Ist der Besuch von Vorlesungen verpflichtend? / Is it compulsory to attend lectures?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
@@ -550,14 +550,14 @@ export default function Rag_bot() {
             Keywords:
             Auslandssemester, semester abroad, Ausland, abroad, Auslandsaufenthalt, study abroad
             Question:
-            Wann sollte ich mich um ein Thema für die Bachelorarbeit kümmern? / When should I look for a topic for the bachelor´s thesis?
+            Wann sollte ich mich um ein Thema für die Bachelorarbeit kümmern? / When should I look for a topic for the bachelor&aposs thesis?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
             So früh wie möglich. In der Regel im Laufe des Praxissemesters, da die Bachelorarbeit im Normalfall im Folgesemester des Praxissemesters geschrieben wird.
 
             As early as possible. Usually during the internship semester, since the thesis is usually written in the semester following the internship semester.
             Keywords:
-            Thema Bachelorarbeit, topic Bachelor's thesis, Thema Masterarbeit, topic bachelor´s thesis, Bachelorarbeiten, Masterarbeiten
+            Thema Bachelorarbeit, topic Bachelor's thesis, Thema Masterarbeit, topic bachelor&aposs thesis, Bachelorarbeiten, Masterarbeiten
             Question:
             Wann werde ich benachrichtigt, wenn die Notenanrechnung erfolgt ist? / When do I receive notification when the credit transfer is done
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
@@ -1043,14 +1043,14 @@ export default function Rag_bot() {
             In principle, any professor of the THWS can supervise your thesis. According to the Study and Examination Regulations SPO, at least one of the two examiners must be a member of the Faculty Business and Engineering. In addition, the supervisor should be familiar with the topic of the thesis. This means that you should choose the supervisor depending on the topic to be working on. As orientation you can use the module descriptions or contact pages of the professors. You can contact them personally e.g. during office hours or by e-mail.
 
             Keywords:
-            Abschlussarbeit, Abschlussarbeiten, Bachelorarbeit, Bachelorarbeiten, Masterarbeit, Masterarbeiten, Bachelor´s thesis, Master´s thesis, thesis, Prüfer, Supervisor
+            Abschlussarbeit, Abschlussarbeiten, Bachelorarbeit, Bachelorarbeiten, Masterarbeit, Masterarbeiten, Bachelor&aposs thesis, Master&aposs thesis, thesis, Prüfer, Supervisor
             Question:
             Wie finde ich ein Thema für die Abschlussarbeit? / How do I find a topic for the thesis?
             Last edited: Wednesday, 20 March 2024, 8:50 AM	
             Answer:
             Es gibt Stellenanzeigen von Unternehmen für Abschlussarbeiten. Auch an der Hochschule werden Themen ausgeschrieben. Wenn Sie sich für ein bestimmtes Thema interessieren, können Sie auch aktiv auf Professor:innen oder Unternehmen zugehen hinsichtlich Betreuung. Bachelorarbeiten werden häufig in dem Unternehmen geschrieben, in dem das Praxissemester absolviert wurde.
 
-            There are job advertisements from companies for theses. Topics are also advertised at the university. If you are interested in a particular topic, you can also actively approach professors or companies for support. Often, the final bachelor´s thesis is written in the company where the internship semester was completed.
+            There are job advertisements from companies for theses. Topics are also advertised at the university. If you are interested in a particular topic, you can also actively approach professors or companies for support. Often, the final bachelor&aposs thesis is written in the company where the internship semester was completed.
 
 
             Keywords:
@@ -1610,7 +1610,7 @@ export default function Rag_bot() {
             product by a new patent?
             netzwerk|nordbayern
              Who is your customer / target group?
-             What are your customers´ requirements?
+             What are your customers&apos requirements?
              Which functions are provided by your product?
              What are the technical features of your product?
              What constitute value adding services and helpful solutions for
