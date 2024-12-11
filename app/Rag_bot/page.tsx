@@ -557,7 +557,7 @@ export default function Rag_bot() {
 
             As early as possible. Usually during the internship semester, since the thesis is usually written in the semester following the internship semester.
             Keywords:
-            Thema Bachelorarbeit, topic Bachelor's thesis, Thema Masterarbeit, topic bachelor&aposs thesis, Bachelorarbeiten, Masterarbeiten
+            Thema Bachelorarbeit, topic Bachelor&aposs thesis, Thema Masterarbeit, topic bachelor&aposs thesis, Bachelorarbeiten, Masterarbeiten
             Question:
             Wann werde ich benachrichtigt, wenn die Notenanrechnung erfolgt ist? / When do I receive notification when the credit transfer is done
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
@@ -583,7 +583,7 @@ export default function Rag_bot() {
 
             Studierende der Studiengänge BWW und IBE
             Studierende der Studiengänge BLO und IBL
-            Relevant vocational training can generally not be credited to the internship. Relevant work experience or experience with a duration of at least one year after vocational training can be fully or partially credited to the internship semester if there is equivalence with the training content of the internship semester. A corresponding application form on the intranet together with copies of the work certificates must be submitted to the attention of the internship officer in the dean's office. However, the associated further proof of performance report, participation in the reflection practical phase must always be provided by all students and can therefore not be waived in principle.
+            Relevant vocational training can generally not be credited to the internship. Relevant work experience or experience with a duration of at least one year after vocational training can be fully or partially credited to the internship semester if there is equivalence with the training content of the internship semester. A corresponding application form on the intranet together with copies of the work certificates must be submitted to the attention of the internship officer in the dean&aposs office. However, the associated further proof of performance report, participation in the reflection practical phase must always be provided by all students and can therefore not be waived in principle.
 
 
             Stdents of the degree programmes BWW and IBE
@@ -713,13 +713,13 @@ export default function Rag_bot() {
             Dann schreiben Sie bitte eine Mail an credittransfer.fwi@thws.de, damit wir eine gemeinsame Lösung finden können. Das heißt, bitte warten Sie nicht, bis Sie die Unterlagen irgendwann erhalten - bitte schreiben Sie uns bis zum 1. November bei Studienbeginn im Wintersemester / 15. April bei Studienbeginn im Sommersemester eine Nachricht, dass Sie Schwierigkeiten mit der Dokumentenbeschaffung haben. Alle nach diesem Datum eingehenden Meldungen können nicht berücksichtigt werden.
             Weitere Informationen: Notenanrechnung / Credit Transfer
 
-            Then please write a mail to credittransfer.fwi@thws.de, so that we can find a common solution. That means please don't wait until you receive the documents sometime - please write us a message before 1 November if you started your studies in winter semester / 15 April if you started your studies in summer semester that you have difficulties with the document procurement. All messages received after this date can not be considered.
+            Then please write a mail to credittransfer.fwi@thws.de, so that we can find a common solution. That means please don&apost wait until you receive the documents sometime - please write us a message before 1 November if you started your studies in winter semester / 15 April if you started your studies in summer semester that you have difficulties with the document procurement. All messages received after this date can not be considered.
             Weitere Informationen: Notenanrechnung / Credit Transfer
 
             Keywords:
             Notenanrechnung, credit transfer, Dokumente, documents, Probleme, problems, Frist, deadline
             Question:
-            Was passiert mit meinem Antrag auf Notenanrechnung, wenn ich noch kein Visum habe und im Ausland sitze? / What happens to my credit transfer application if I don't have a visa yet and am sitting abroad?
+            Was passiert mit meinem Antrag auf Notenanrechnung, wenn ich noch kein Visum habe und im Ausland sitze? / What happens to my credit transfer application if I don&apost have a visa yet and am sitting abroad?
             Last edited: Wednesday, 20 March 2024, 8:51 AM	
             Answer:
             Sie können trotzdem einen Antrag auf Anrechnung stellen. Bitte reichen Sie den Antrag bis zum 1. November bei Studienbeginn im Wintersemester / 15. April bei Studienbeginn im Sommersemester ein.
@@ -1197,7 +1197,7 @@ export default function Rag_bot() {
             Answer:
             Die Einteilung erfolgt im Dekanat. In der Regel wird nach Wohnort eingeteilt. Bitte im Dekanat melden.
 
-            Division takes place in the dean's office. Usually, the students are divided according to their place of residence. Please contact the dean's office.
+            Division takes place in the dean&aposs office. Usually, the students are divided according to their place of residence. Please contact the dean&aposs office.
 
             Keywords:
             Erstsemester, freshman, Gruppe, group
@@ -1331,7 +1331,7 @@ export default function Rag_bot() {
             - that we have a good idea for an attractive market in which we can successfully compete against competitiion
             - that we will implement the idea professionelly and OPTIMALLY. Optimally means that from the variety of options
             sales channels, promotion channels, location, etc. we will pick the financially most reasonable ones and that
-            we will set the right priorities. Thus, we DON'T plan to do everything possible and to spend 100 mio Euro, but to select of
+            we will set the right priorities. Thus, we DON&aposT plan to do everything possible and to spend 100 mio Euro, but to select of
             all options the ones which are the most appropiate for the specific situation.
             - We need to explain this thoroughly. The onus is on us, i.e. we cannot simply plan SOMETHING and hope that the
             potential investors will figure out whether our approach will be profitable, but it is on us to explain everything and to
@@ -1550,7 +1550,7 @@ export default function Rag_bot() {
             it is its top speed of 436 km/h which stands out
             The seats, steering wheel, lamps, etc. are part of the
             value proposition, but they are offered by other car
-            companies, too, i.e., they don't form the USP
+            companies, too, i.e., they don&apost form the USP
             Uniqueness may be due to...
             … technological characteristics
             … the shape
@@ -1601,7 +1601,7 @@ export default function Rag_bot() {
             going to solve?
             Do not describe technical
             details!
-            - You don't need CAD drawings, but the major technical approach should be explained.
+            - You don&apost need CAD drawings, but the major technical approach should be explained.
             - If possible, provide a sketch/ drawing/ scheme of the product.
             - In the realization plan, you can plan to finish product development.
             - Are there already pertinent
@@ -1809,7 +1809,7 @@ export default function Rag_bot() {
             Estimations for a target market size can be done in a similar manner.
             Type text here If you find specific market numbers in market
             reports, then you should use these and cite
-            the sources correctly. In this case, you don't
+            the sources correctly. In this case, you don&apost
             need to estimate the market size.
             Create a prediction for the turnover based on the
             probability of sale
@@ -2041,7 +2041,7 @@ export default function Rag_bot() {
              Distribution barriers e.g. Channel conflicts
              Reference barriers e.g. Lack of references
             Typcial buying resistances
-             Customer's uncertainty concerning the cost-effectiveness of his purchase
+             Customer&aposs uncertainty concerning the cost-effectiveness of his purchase
              Technology life-span of the product
              Viability of a start-up
              Fear of lock-in
@@ -2096,7 +2096,7 @@ export default function Rag_bot() {
             The overarching marketing
             strategy forms the basis for
             a coherent and consistent
-            choice of the 4P's.
+            choice of the 4P&aposs.
             Basic principles of marketing planning
             What is the marketing
             aiming for?
@@ -2276,7 +2276,7 @@ export default function Rag_bot() {
             Incl. online retailers
             In particular for B2B
             Own web page, online shop, online platform
-            You must explain how your sales approach is optimized. Don't simply state your channels. Investors know
+            You must explain how your sales approach is optimized. Don&apost simply state your channels. Investors know
             them all, but they want to understand why your channels is are the best for your company. E.g. why one
             specific retailer and not another one.
             Examples:
@@ -2427,7 +2427,7 @@ export default function Rag_bot() {
             indirect competition, i.e., to substitutes
             • Estimate how much typical target customers would be willing to
             pay for your product. At this price point you can maximally exploit
-            customers' willingness to pay, and hence maximize profit, e.g., see
+            customers&apos willingness to pay, and hence maximize profit, e.g., see
             Apple and all luxury brands
             • You should survey your target customers. In B2C you could run
             an online survey among 100 target customers. In B2B a smaller
@@ -2467,13 +2467,13 @@ export default function Rag_bot() {
             3
             Pricing: Three approaches that you should all use and interpolate 4/4
             • If you can determine your price by using the first two methods, then cost-based
-            pricing constitutes a lower threshold for your price. If you can't apply the first tow
+            pricing constitutes a lower threshold for your price. If you can&apost apply the first tow
             methods, then cost-based pricing will be your only method.
             • If possible, you should apply all three pricing approaches and compare the results.
             Then you can argue which price would be most reasonable to maximize profit.
             • If you execute all three methods thoroughly and if you cite sources, then investors
             get a professional and convincing impression of you. If you just wildly guess your
-            price, then investors don't know whether you maximize profits. You should
+            price, then investors don&apost know whether you maximize profits. You should
             convince investors that you have done all your homework in a professional
             manner.
             4
