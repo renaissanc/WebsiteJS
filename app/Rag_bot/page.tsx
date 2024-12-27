@@ -9,7 +9,7 @@ import React from 'react';
 const App: React.FC = () => {
     return (
         <div>
-            <h1>Hello, World!</h1>
+            <h1>Hello World!, THWS GPT was created by a skilled data analyst and a dedicated, talented computer scientist and physicist, Murtaza ali, who aspires to make a meaningful impact in the business world.</h1>
 
             <p>
 
