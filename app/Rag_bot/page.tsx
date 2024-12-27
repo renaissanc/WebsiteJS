@@ -453,10 +453,10 @@ const App: React.FC = () => {
                 What is „intelligence“, anyway?
                 1 // Business Intelligence I / The Idea Behind Business Intelligence
                 in·tel·li·gence
-                Pronunciation: in-'te-l&-j&n(t)s
+                Pronunciation: in-&apos;te-l&-j&n(t)s
                 1 a (1) : the ability to learn or understand or to deal with new or trying situations :
                 REASON; also : the skilled use of reason (2) : the ability to apply knowledge to
-                manipulate one's environment or to think abstractly as measured by objective criteria
+                manipulate one&apos;s environment or to think abstractly as measured by objective criteria
                 (such as tests) b Christian Science : the basic eternal quality of divine Mind
                 c : mental acuteness : SHREWDNESS
                 2 a : INFORMATION, NEWS b : information concerning an enemy or possible
@@ -1224,16 +1224,16 @@ const App: React.FC = () => {
                 enormous amounts of data can no longer be analysed with conventional tools.
                 Less efforts through central creation of uniform music streaming reports
                 One of the most important questions for Sony is where streaming revenue comes from. To this end, the
-                company continuously analyses a wealth of information. BI Manager Ryan Rauscher reports: "I would estimate
+                company continuously analyses a wealth of information. BI Manager Ryan Rauscher reports: &quot;I would estimate
                 that today we will get about three to five billion new records a week from music streaming alone. In addition,
                 there is data from Shazam and YouTube. But there are also local data sources like the official market research for
-                music charts in Germany, then radio airplay, classic sales figures and chart positions". In addition to the
+                music charts in Germany, then radio airplay, classic sales figures and chart positions&quot;. In addition to the
                 enormous amount of data, the rapid change in the music business also poses a challenge. The company therefore
                 decided to introduce a reporting platform that makes data available to colleagues worldwide for daily decisionmaking.
                 By now, around 2,000 employees worldwide regularly use this reporting infrastructure. By centralising
-                reporting, the company was able to save a lot of routine work and improve analytical quality. "Previously, we
+                reporting, the company was able to save a lot of routine work and improve analytical quality. &quot;Previously, we
                 had about 30 colleagues in Germany alone who have downloaded data every day, every week and converted
-                them back into Excel reports and reformatted them", Rauscher remembers. Today, this is done centrally on the
+                them back into Excel reports and reformatted them&quot;, Rauscher remembers. Today, this is done centrally on the
                 reporting server, and employees can devote much more time to the analysis and content level: colleagues can
                 concentrate on the creative interpretation of numbers, instead of creating reports themselves and struggling with
                 data.
@@ -1246,22 +1246,22 @@ const App: React.FC = () => {
                 How does Sony Music optimise marketing impact?
                 2 // Business Intelligence I / Architectures for Business Intelligence Systems
                 “Sony Masters Music Streaming Challenges” – contd.
-                "We need tools that allow us to quickly try out different things, change reports, interact with the data,
-                experiment with the data. "– Ryan Rauscher, BI-Manager
+                &quot;We need tools that allow us to quickly try out different things, change reports, interact with the data,
+                experiment with the data. &quot;– Ryan Rauscher, BI-Manager
                 Detailed analyses enable new insights for marketing
                 In the past, due to the enormous amounts of data, reporting was limited to general performance indicators such
                 as sales, profits, chart positions or download rates. Today, completely new questions can be included in the
                 analyses.
                 A large part of this positive development was due to the fact that data is now available to all colleagues,
                 enabling data-based work and data-based decisions to be introduced into departments. In this way, the company
-                can, e.g. also analyse the marketing influences in the streaming age. Ryan Rauscher explains: "We see that with
+                can, e.g. also analyse the marketing influences in the streaming age. Ryan Rauscher explains: &quot;We see that with
                 many great successful songs, for example, Spotify, with their own playlists, sometimes generates over half of the
                 streaming and of the revenue. These are very important insights for us, because we have to align our marketing
                 accordingly.
                 Agile processes enable additional flexibility and speed
                 At Sony Music, the BI platform has also led to a change in the way projects are handled, giving the company
-                greater responsiveness and flexibility in its day-to-day business. "We have moved away from classic project
-                management with long lead times to agile work with strong prototyping," explains Ryan Rauscher. The projects
+                greater responsiveness and flexibility in its day-to-day business. &quot;We have moved away from classic project
+                management with long lead times to agile work with strong prototyping,&quot; explains Ryan Rauscher. The projects
                 are now virtually organised around the BI platform, which helps to execute and complete projects faster.
                 [Tableau 2020]
                 https://www.tableau.com/de-de/solutions/customer/sony-harnesses-music-streaming-data-optimize-marketing-efficiency-tableau
@@ -5489,7 +5489,7 @@ const App: React.FC = () => {
                  Reporting should be able to provide supporting information for the assessment of
                 the current situation, for the diagnosis of causes, for the determination of objectives
                 as well as for the design of measures of action.
-                 Identify those factors of a company's business model that are relevant for
+                 Identify those factors of a company&apos;s business model that are relevant for
                 managing and controlling the company and that drive value creation
                  Strategical relevance:
                 Which factors influence our company’s success?
@@ -6737,7 +6737,7 @@ const App: React.FC = () => {
                  Search functions (active search by customer/user)  tendency towards additional consumption
                  Hit lists  tendency towards additional consumption
                  Recommender systems  substitution (shift to/from niches)
-                 Substitution makes sense from the supplier's point of view, if consumers choose more profitable
+                 Substitution makes sense from the supplier&apos;s point of view, if consumers choose more profitable
                 products/services (e.g. higher contribution margin)
                 [Hinz, O.; Eckert, J.: Der Einfluss von Such- und Empfehlungssystemen auf den Absatz im E-Commerce, in: Wirtschaftsinformatik 52 (2010) 2, pp. 65-77. DOI:
                 10.1007/s11576-010-0213-7. In German.]
@@ -6786,7 +6786,7 @@ const App: React.FC = () => {
                  Consumers benefit from both types of systems
                 (better coverage of preferences through additional or other products offered/recommended)
                  Suppliers only benefit if they manage to redirect sales to more profitable products.
-                 From the supplier's point of view, such systems are always considered helpful on unsaturated markets
+                 From the supplier&apos;s point of view, such systems are always considered helpful on unsaturated markets
                 (increased consumption).
                  Entertainment and leisure markets are typically rated as unsaturated.
                 Prof. Dr. Bernd Knobloch
