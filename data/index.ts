@@ -114,6 +114,14 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/renaissanc/WebsiteJS",
   },
+  {
+    id: 3,
+    title: "RAG Chat Bot",
+    des: "using Langchain",
+    img: "/RAG_Bot.png",
+    iconLists: ["/Python.svg", "/ts.svg"],
+    link: "https://github.com/renaissanc/rag_test_alfa",
+  },
   
   /*
   {
