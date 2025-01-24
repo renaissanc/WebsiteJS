@@ -119,7 +119,7 @@ export const projects = [
     title: "RAG Chat Bot",
     des: "using Langchain",
     img: "/RAG_Bot.png",
-    iconLists: ["/Python.svg", "/ts.svg"],
+    iconLists: ["/ts.svg"],
     link: "https://github.com/renaissanc/rag_test_alfa",
   },
   
